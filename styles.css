@@ -43,14 +43,11 @@ html {
 .content a{
     color: #9c6a1a;
     text-decoration: none;
-    text-decoration-color: #0000;
-    transition: all .4s ease;
 }
 
 .content a:hover{
     color: #b9842e;
     text-decoration: underline;
-    text-decoration-color: #b9842e;
 }
 
 .space {

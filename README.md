@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://cdn.mxis.ch/assets/tolocal-site/favicon.png" title="tolocal-site favicon" alt="tolocal-site favicon" width="128">
+
 # tolocal.site
 
 Make your localhost life easier: tolocal.site and *.tolocal.site resolve to 127.0.0.1!
