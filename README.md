@@ -28,5 +28,5 @@ All of them will point to `127.0.0.1`.
 
 This site is inspired by lvh.me, which does exactly the same! I just always forgot the name, so I registered [tolocal.site](http://tolocal.site), edited the DNS to point it to 127.0.0.1 and created this page. It's very simple really!
 
-If you want to see what else I'm up too, check out by GitHub profile [@BetaHuhn](https://github.com/betahuhn)!
+If you want to see what else I'm up too, check out my GitHub profile [@BetaHuhn](https://github.com/betahuhn)!
 
